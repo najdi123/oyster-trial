@@ -1,0 +1,27 @@
+.navbar-brand {
+    color: #aaa;
+}
+.navbar-toggler-icon{
+    color: #aaa;
+}
+
+a {
+    color: #aaa;
+    font-weight: 200;
+}
+.logo{
+    width: auto;
+    height: 60px;
+}
+.navbar{
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: black;
+}
+.nav-link:hover{
+    border-bottom: #ffb807 solid 2px;
+    transition-timing-function: ease;
+    transition: 0.7s;
+    color: #ffb807;
+
+}

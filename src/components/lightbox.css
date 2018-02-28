@@ -1,0 +1,28 @@
+img.thumbnail {
+
+    height: auto;
+    width: 330px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    display: inline-block;
+    /*margin: 0;*/
+
+}
+img.thumbnail:hover {
+    border-radius: 15px;
+    transition-timing-function: ease;
+    transition: 0.7s;
+    transform: scale(1.038);
+}
+img.ril-image-current.ril__image{
+    height: auto;
+    width: auto;
+}
+.image-display{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+
+}
