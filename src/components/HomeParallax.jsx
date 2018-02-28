@@ -19,7 +19,7 @@ class FlexPage extends Component {
 
                 </section>
 
-                <Link to="/Spring-Summer-2018/Jackets">
+                <Link to="/Spring-Summer-2018/Suits">
                     <div className="pic2">
                         <div className="ptext">
                       <span className="border trans">
