@@ -24,7 +24,7 @@ class Navbar extends Component {
                                     Collection
                                 </a>
                                 <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                                    <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Jackets">Jackets</Link>
+                                    <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Suits">Suits</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Pants">Pants</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Set">Set</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Shoes">Shoes</Link>

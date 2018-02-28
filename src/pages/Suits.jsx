@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar.jsx';
 import Parallax1 from '../components/parallax.jsx';
 
 
-import Jackets from "../components/Jackets.jsx";
+import Jackets from "../components/Suits.jsx";
 
 class jackets extends Component {
     render() {

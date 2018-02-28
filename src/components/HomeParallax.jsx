@@ -23,7 +23,7 @@ class FlexPage extends Component {
                     <div className="pic2">
                         <div className="ptext">
                       <span className="border trans">
-                        <h1>Jackets</h1>
+                        <h1>Suits</h1>
                       </span>
                         </div>
                     </div>
