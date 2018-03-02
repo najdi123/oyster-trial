@@ -14,13 +14,14 @@ class Home extends Component {
             <div >
                 <Navbar />
 
-                <div className="container-fluid" style={{textAlign : 'center'}}>
+                <div className="container-fluid" style={{ textAlign: 'center' }}>
                     <div className="row">
-                        <div className="col-sm-12" style={{padding : 0}}>
-                            <Slick/>
+                        <div className="col-sm-12" style={{ padding: 0 }}>
+                            <Slick />
                         </div>
-                        <div className="col-sm-12" style={{padding : 0}}>
-                            <HomeParallax/>
+                        <div className="col-sm-12" style={{ padding: 0 }}>
+
+                            <HomeParallax />
                         </div>
 
 
