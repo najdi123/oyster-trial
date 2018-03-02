@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd93a9d-9ee6-41de-9cb6-091749bd8226" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/hoodieParallax.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/pantsParallax.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/shoesParallax.jsx" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/components/suitParallax.jsx" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomeParallax.jsx" afterPath="$PROJECT_DIR$/src/components/HomeParallax.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Jumbotron.css" afterPath="$PROJECT_DIR$/src/components/Jumbotron.css" />
-      <change beforePath="$PROJECT_DIR$/src/components/parallax.jsx" afterPath="$PROJECT_DIR$/src/components/parallax.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/About.jsx" afterPath="$PROJECT_DIR$/src/pages/About.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Hoodies.jsx" afterPath="$PROJECT_DIR$/src/pages/Hoodies.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Pants.jsx" afterPath="$PROJECT_DIR$/src/pages/Pants.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Shoes.jsx" afterPath="$PROJECT_DIR$/src/pages/Shoes.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Suits.jsx" afterPath="$PROJECT_DIR$/src/pages/Suits.jsx" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Contact.jsx" afterPath="$PROJECT_DIR$/src/pages/Contact.jsx" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,18 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="40" column="55" lean-forward="false" selection-start-line="40" selection-start-column="55" selection-end-line="40" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hoodieParallax.jsx" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/hoodieParallax.jsx">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="61" lean-forward="false" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -96,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="About.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="About.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/About.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -121,8 +98,18 @@
       <file leaf-file-name="Jumbotron.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Jumbotron.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+            <state relative-caret-position="84">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.jsx" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pages/Contact.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -163,8 +150,9 @@
         <option value="$PROJECT_DIR$/src/components/suitParallax.jsx" />
         <option value="$PROJECT_DIR$/src/components/pantsParallax.jsx" />
         <option value="$PROJECT_DIR$/src/components/HomeParallax.jsx" />
-        <option value="$PROJECT_DIR$/src/components/Jumbotron.css" />
         <option value="$PROJECT_DIR$/src/pages/About.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Jumbotron.css" />
+        <option value="$PROJECT_DIR$/src/pages/Contact.jsx" />
       </list>
     </option>
   </component>
@@ -263,12 +251,12 @@
       <updated>1518381648921</updated>
       <workItem from="1518381654648" duration="851000" />
       <workItem from="1519750459312" duration="4333000" />
-      <workItem from="1519997785186" duration="4196000" />
+      <workItem from="1519997785186" duration="5134000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9380000" />
+    <option name="totallyTimeSpent" value="10318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -282,7 +270,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18358038" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20296465" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -457,14 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Contact.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
@@ -625,6 +605,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/About.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Jumbotron.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -637,16 +625,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Jumbotron.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="58" lean-forward="false" selection-start-line="1" selection-start-column="58" selection-end-line="1" selection-end-column="58" />
+        <state relative-caret-position="84">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/About.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/Contact.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        <state relative-caret-position="273">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>
