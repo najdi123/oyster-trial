@@ -7,7 +7,7 @@ const MyComponent = () => (
     <div>
     <Parallax
         blur={{ min: -15, max: 15 }}
-        bgImage={require('../images/jacket/pic (1).jpg')}
+        bgImage={require('../images/parallax/suit.jpg')}
         bgImageAlt="the cat"
         strength={300}
     >
@@ -20,7 +20,7 @@ const MyComponent = () => (
 
     <Parallax
         blur={{ min: -15, max: 15 }}
-        bgImage={require('../images/shoes/pic (1).jpg')}
+        bgImage={require('../images/parallax/formalShoes.jpg')}
         bgImageAlt="the dog"
         strength={200}
     >
@@ -38,7 +38,7 @@ const MyComponent = () => (
 
         <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/pants/pic (1).jpg')}
+            bgImage={require('../images/parallax/pants2.jpg')}
             bgImageAlt="the cat"
             strength={300}
         >
@@ -51,7 +51,7 @@ const MyComponent = () => (
 
         <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/blouse/pic (1).jpg')}
+            bgImage={require('../images/parallax/shirt.jpg')}
             bgImageAlt="the dog"
             strength={200}
         >
@@ -65,7 +65,7 @@ const MyComponent = () => (
 
          <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/hoodi/pic (11).jpg')}
+            bgImage={require('../images/parallax/hoodi1.jpg')}
             bgImageAlt="the dog"
             strength={200}
         >

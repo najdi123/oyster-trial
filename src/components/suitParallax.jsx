@@ -7,15 +7,15 @@ const MyComponent = () => (
     <div>
         <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/parallax1.jpg')}
+            bgImage={require('../images/parallax/suitP.jpg')}
             bgImageAlt="the cat"
             strength={300}
         >
 
-                <div className="para" >
-                    <div className="ptext"><span className="border trans">
+            <div className="para" >
+                <div className="ptext"><span className="border trans">
                     <h1>Spring - Summer 2018</h1></span></div>
-                </div>
+            </div>
 
         </Parallax>
     </div>

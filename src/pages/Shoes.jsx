@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Footer from '../components/Footer.jsx';
 import Navbar from '../components/Navbar.jsx';
-import Parallax1 from '../components/parallax.jsx';
+import Parallax1 from '../components/shoesParallax';
 
 
 import Shoes from "../components/Shoes.jsx";

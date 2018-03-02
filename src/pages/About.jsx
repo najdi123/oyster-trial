@@ -11,12 +11,13 @@ class About extends Component {
                 <Navbar />
                 <Jumbotron title="About Us!" subtitle="This page is all about who we are!"/>
                 <div className="container">
-                    <h2>About</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc placerat orci eu nulla sagittis, pulvinar dignissim lectus consequat. Etiam in lobortis ligula, vitae ornare lacus. Vivamus scelerisque lorem arcu, vitae eleifend ex commodo a. Quisque rutrum, augue sit amet egestas efficitur, magna nulla lacinia elit, sed suscipit tortor erat vitae enim. Donec egestas odio id aliquet rhoncus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque mi dolor, egestas nec lacinia non, sodales eu lacus. Donec ultricies nec elit ac ornare. Quisque fermentum ligula ut feugiat cursus. Aliquam auctor suscipit ex a lacinia. Mauris sollicitudin, justo quis fringilla finibus, dui diam ullamcorper nulla, sit amet placerat justo neque quis quam. Praesent nec nibh at tortor ornare dignissim. Morbi tincidunt fringilla turpis at luctus. Vivamus dapibus ligula eget pellentesque luctus. Maecenas ut consectetur lacus, non dignissim nisi. Praesent sodales tellus sit amet faucibus tempus.
-                    </p>
-                    <p>
-                        Maecenas dapibus, est posuere eleifend rutrum, lectus ligula gravida urna, at pretium dui turpis non lorem. Donec pretium lorem ipsum, at fermentum nibh consequat facilisis. Sed maximus massa est, vel porta diam placerat id. Vivamus imperdiet lorem eget dolor bibendum, eget gravida tellus interdum. Sed lectus odio, condimentum eu porttitor vel, euismod sit amet urna. Nam quis dui a nibh rhoncus aliquam vitae in metus. Nam sit amet semper turpis. Suspendisse eu malesuada tortor, vel lacinia nisl. Phasellus ultrices vehicula magna, sed tempor neque dapibus quis. Phasellus urna justo, sollicitudin ac odio eget, convallis varius nulla. Vivamus in lacinia lorem, at eleifend nulla. Nulla nec luctus purus. Integer id purus mauris. Phasellus finibus ultricies erat a tempus. Nulla luctus sem nec justo venenatis, eu faucibus purus congue.
+                    <h2 style={{textAlign: 'right'}}>درباره ما </h2>
+                    <p style={{textAlign: 'right'}}>
+                        کمپانی انسینو با تلاش 6 ساله در زمینه عرضه کفش‌های چرم دست دوز توانسته است، محصولی با کیفیت و قابل رقابت با محصولات خارجی متنوع را عرضه کند. محصولات این کمپانی طبق تکنولوژی کشور ایتالیا طراحی و عرضه شده‌اند، تا در هنگام استفاده احساس خوبی به مخاطب منتقل کنند.
+                        در طراحی و تولید کفش‌های چرم دست دوز انسینو، از بهترین مواد اولیه و جدیدترین مدل‌های روز دنیا استفاده شده است، تا مشتریان با سلایق متفاوت  بتوانند کفش چرم دست دوز مورد نظرشان را خریداری کنند و مورد استفاده قرار دهند.
+                        در طراحی این کفش‌های چرم دست دوز از بهترین چرم‌های موجود در بازار استفاده شده است. تا کیفیت محصولات عرضه شده از محصولات مشابه خارجی نیز  بهتر باشد.
+                        با خرید این کفش‌های چرم دست دوز ضمن حمایت از تولید داخلی، شما می‌توانید یک کفش مناسب و در خور تهیه کنید و مورد استفاده قرار دهید.
+                        با جستجو در بین محصولات متنوع این کمپانی می‌توانید از انواع کفش‌های چرم دست دوز، گرم کن، هودی، تیشرت و... دیدن نمایید.
                     </p>
                 </div>
                 <Footer />
