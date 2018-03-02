@@ -14,7 +14,7 @@ const MyComponent = () => (
 
             <div className="para" >
                 <div className="ptext"><span className="border trans">
-                    <h1>Spring - Summer 2018</h1></span></div>
+                    <h1 style={{color: '#333'}}>Spring - Summer 2018</h1></span></div>
             </div>
 
         </Parallax>

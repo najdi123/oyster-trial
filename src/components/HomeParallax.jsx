@@ -13,7 +13,7 @@ const MyComponent = () => (
     >
         <Link to="/Spring-Summer-2018/Suits">
             <div className="para" >
-                <div className="ptext"><span className="border trans"><h1>Suits</h1></span></div>
+                <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Suits</h1></span></div>
             </div>
         </Link>
     </Parallax>
@@ -44,7 +44,7 @@ const MyComponent = () => (
         >
             <Link to="/Spring-Summer-2018/Pants">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1>Pants</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Pants</h1></span></div>
                 </div>
             </Link>
         </Parallax>
@@ -56,9 +56,9 @@ const MyComponent = () => (
             strength={200}
         >
 
-            <Link to="/Spring-Summer-2018/Blouses">
+            <Link to="/Spring-Summer-2018/Shirts">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1>Blouses</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1>Shirts</h1></span></div>
                 </div>
             </Link>
         </Parallax>
@@ -72,7 +72,7 @@ const MyComponent = () => (
 
             <Link to="/Spring-Summer-2018/Hoodies">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1>Hoodies</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Hoodies</h1></span></div>
                 </div>
             </Link>
         </Parallax>

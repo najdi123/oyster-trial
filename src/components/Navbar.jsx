@@ -28,7 +28,7 @@ class Navbar extends Component {
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Pants">Pants</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Set">Set</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Shoes">Shoes</Link>
-                                    <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Blouses">Blouses</Link>
+                                    <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Shirts">Shirts</Link>
                                     <Link className="dropdown-item nav-link" to="/Spring-summer-2018/Hoodies">Hoodies</Link>
                                 </div>
                             </li>

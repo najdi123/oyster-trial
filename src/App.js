@@ -8,7 +8,7 @@ import Suits from './pages/Suits.jsx';
 import Pants from './pages/Pants.jsx';
 import Set from './pages/Set.jsx';
 import Shoes from './pages/Shoes.jsx';
-import Blouses from './pages/Blouses.jsx';
+import Shirts from './pages/Shirts.jsx';
 import Hoodies from './pages/Hoodies.jsx';
 
 
@@ -24,7 +24,7 @@ class App extends Component {
                     <Route path="/Spring-Summer-2018/Pants" component={Pants}/>
                     <Route path="/Spring-Summer-2018/Set" component={Set}/>
                     <Route path="/Spring-Summer-2018/Shoes" component={Shoes}/>
-                    <Route path="/Spring-Summer-2018/Blouses" component={Blouses}/>
+                    <Route path="/Spring-Summer-2018/Shirts" component={Shirts}/>
                     <Route path="/Spring-Summer-2018/Hoodies" component={Hoodies}/>
                 </div>
             </Router>

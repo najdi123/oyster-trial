@@ -20,8 +20,7 @@ a {
 }
 .nav-link:hover{
     border-bottom: #ffb807 solid 2px;
-    transition-timing-function: ease;
-    transition: 0.7s;
+
     color: #ffb807;
 
 }
