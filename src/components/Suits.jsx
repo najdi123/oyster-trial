@@ -6,14 +6,14 @@ import './lightbox.css';
 import pic1 from "../images/products/pic1.JPG";
 import pic2 from "../images/products/pic2.JPG";
 import pic3 from "../images/products/pic3.JPG";
-import pic4 from "../images/products/pic4.JPG";
+import pic7 from "../images/products/pic4.JPG";
 
-import pic5 from "../images/products/pic (1).jpg";
+import pic5 from "../images/products/pic (1).JPG";
 import pic6 from "../images/products/pic (2).JPG";
-import pic7 from "../images/products/pic (3).JPG";
+import pic4 from "../images/products/pic (3).JPG";
 import pic8 from "../images/products/pic (4).JPG";
 import pic9 from "../images/products/pic (5).JPG";
-import pic10 from "../images/products/pic (6).JPG";
+import pic10 from "../images/products/pic (6).jpg";
 import pic11 from "../images/products/pic (7).JPG";
 
 // import pic10 from "../images/jacket/pic (10).jpg";
