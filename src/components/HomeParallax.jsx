@@ -65,7 +65,7 @@ const MyComponent = () => (
 
          <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/products/pic (1).JPG')}
+            bgImage={require('../images/products/pic (1).jpg')}
             bgImageAlt="the dog"
             strength={200}
         >
