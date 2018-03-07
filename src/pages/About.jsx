@@ -13,12 +13,14 @@ class About extends Component {
                 <div className="container">
                     <h2 style={{textAlign: 'right'}}>درباره ما </h2>
                     <p style={{textAlign: 'right'}}>
-                        کمپانی انسینو با تلاش 6 ساله در زمینه عرضه کفش‌های چرم دست دوز توانسته است، محصولی با کیفیت و قابل رقابت با محصولات خارجی متنوع را عرضه کند. محصولات این کمپانی طبق تکنولوژی کشور ایتالیا طراحی و عرضه شده‌اند، تا در هنگام استفاده احساس خوبی به مخاطب منتقل کنند.
-                        در طراحی و تولید کفش‌های چرم دست دوز انسینو، از بهترین مواد اولیه و جدیدترین مدل‌های روز دنیا استفاده شده است، تا مشتریان با سلایق متفاوت  بتوانند کفش چرم دست دوز مورد نظرشان را خریداری کنند و مورد استفاده قرار دهند.
-                        در طراحی این کفش‌های چرم دست دوز از بهترین چرم‌های موجود در بازار استفاده شده است. تا کیفیت محصولات عرضه شده از محصولات مشابه خارجی نیز  بهتر باشد.
-                        با خرید این کفش‌های چرم دست دوز ضمن حمایت از تولید داخلی، شما می‌توانید یک کفش مناسب و در خور تهیه کنید و مورد استفاده قرار دهید.
-                        با جستجو در بین محصولات متنوع این کمپانی می‌توانید از انواع کفش‌های چرم دست دوز، گرم کن، هودی، تیشرت و... دیدن نمایید.
-                    </p>
+
+                        aziendaOyster Cosmetics SpA has been producing hair cosmetics for 30 years. The company developed skilfulness and experience in the production of high quality hair dyes, a complete and excellent range from colour to styling, from finishing to hair care: Oyster Professional.
+                        Oyster Professional means completeness and evolution: the research carried out by the laboratories inside the company’s premises, ruled by periodic market surveys, allows a constant innovation for the development of new products in line with consumption trends. A methodical quality control, from raw materials to finished product, the timeliness of logistic service complete the offers of a company that, for its high quality standards concerning formulation and production, conquered the high fidelity of its customers.
+                        Recently, the Company has also fulfilled an important expansion of its scope by developing the skin care Department: a full range of products for a stimulating challenge that our Company is strongly facing through huge productive investments and a continuously evolving know-how.
+
+                        The company in numbers:
+                        65 thousand m2 area; 10 thousand pallet spaces warehouses; its production capacity amounts to 200 million
+                        pieces per year; fifteen production lines and packaging; 4 internal laboratories (R&D, chemical lab, microbiologic lab and quality control lab); Internal show room and Academy for technical tests.</p>
                 </div>
                 <Footer />
             </div>

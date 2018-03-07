@@ -3,22 +3,26 @@ import React from 'react';
 import './lightbox.css';
 // import '../components/lightbox.css';
 
-import pic1 from "../images/jacket/pic (1).jpg";
-import pic2 from "../images/jacket/pic (2).jpg";
-import pic3 from "../images/jacket/pic (3).jpg";
-import pic4 from "../images/jacket/pic (4).jpg";
-import pic5 from "../images/jacket/pic (5).jpg";
-import pic6 from "../images/jacket/pic (6).jpg";
-import pic7 from "../images/jacket/pic (7).jpg";
-import pic8 from "../images/jacket/pic (8).jpg";
-import pic9 from "../images/jacket/pic (9).jpg";
+import pic1 from "../images/products/pic1.JPG";
+import pic2 from "../images/products/pic2.JPG";
+import pic3 from "../images/products/pic3.JPG";
+import pic4 from "../images/products/pic4.JPG";
+
+import pic5 from "../images/products/pic (1).jpg";
+import pic6 from "../images/products/pic (2).JPG";
+import pic7 from "../images/products/pic (3).JPG";
+import pic8 from "../images/products/pic (4).JPG";
+import pic9 from "../images/products/pic (5).JPG";
+import pic10 from "../images/products/pic (6).JPG";
+import pic11 from "../images/products/pic (7).JPG";
+
 // import pic10 from "../images/jacket/pic (10).jpg";
 
 
 
 
 
-const images = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9];
+const images = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9, pic10, pic11];
 
 class IndiLightbox extends React.Component{
 
@@ -52,6 +56,8 @@ class IndiLightbox extends React.Component{
                     <img alt="lightbox" src={pic7} className="thumbnail"  onClick={() => this.setState({ isOpen: true, photoIndex:6 })} />
                     <img alt="lightbox" src={pic8} className="thumbnail"  onClick={() => this.setState({ isOpen: true, photoIndex:7 })} />
                     <img alt="lightbox" src={pic9} className="thumbnail"  onClick={() => this.setState({ isOpen: true, photoIndex:8 })} />
+                    <img alt="lightbox" src={pic10} className="thumbnail"  onClick={() => this.setState({ isOpen: true, photoIndex:9 })} />
+                    <img alt="lightbox" src={pic11} className="thumbnail"  onClick={() => this.setState({ isOpen: true, photoIndex:10 })} />
 
 
 

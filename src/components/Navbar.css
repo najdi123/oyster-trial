@@ -16,7 +16,7 @@ a {
 .navbar{
     padding-top: 0;
     padding-bottom: 0;
-    background-color: black;
+    background-color: white;
 }
 .nav-link:hover{
     border-bottom: #ffb807 solid 2px;

@@ -7,27 +7,27 @@ const MyComponent = () => (
     <div>
     <Parallax
         blur={{ min: -15, max: 15 }}
-        bgImage={require('../images/parallax/suit.jpg')}
+        bgImage={require('../images/products/pic1.JPG')}
         bgImageAlt="the cat"
         strength={300}
     >
         <Link to="/Spring-Summer-2018/Suits">
             <div className="para" >
-                <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Suits</h1></span></div>
+                <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>purple</h1></span></div>
             </div>
         </Link>
     </Parallax>
 
     <Parallax
         blur={{ min: -15, max: 15 }}
-        bgImage={require('../images/parallax/formalShoes.jpg')}
+        bgImage={require('../images/products/pic2.JPG')}
         bgImageAlt="the dog"
         strength={200}
     >
 
         <Link to="/Spring-Summer-2018/Shoes">
             <div className="para" >
-                <div className="ptext"><span className="border trans"><h1>Shoes</h1></span></div>
+                <div className="ptext"><span className="border trans"><h1>blue</h1></span></div>
             </div>
         </Link>
     </Parallax>
@@ -38,41 +38,41 @@ const MyComponent = () => (
 
         <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/parallax/pants2.jpg')}
+            bgImage={require('../images/products/pic3.JPG')}
             bgImageAlt="the cat"
             strength={300}
         >
             <Link to="/Spring-Summer-2018/Pants">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Pants</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>black</h1></span></div>
                 </div>
             </Link>
         </Parallax>
 
         <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/parallax/shirt.jpg')}
+            bgImage={require('../images/products/pic4.JPG')}
             bgImageAlt="the dog"
             strength={200}
         >
 
             <Link to="/Spring-Summer-2018/Shirts">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1>Shirts</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1>blond</h1></span></div>
                 </div>
             </Link>
         </Parallax>
 
          <Parallax
             blur={{ min: -15, max: 15 }}
-            bgImage={require('../images/parallax/hoodi1.jpg')}
+            bgImage={require('../images/products/pic (1).jpg')}
             bgImageAlt="the dog"
             strength={200}
         >
 
             <Link to="/Spring-Summer-2018/Hoodies">
                 <div className="para" >
-                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>Hoodies</h1></span></div>
+                    <div className="ptext"><span className="border trans"><h1 style={{color: '#333'}}>white</h1></span></div>
                 </div>
             </Link>
         </Parallax>
