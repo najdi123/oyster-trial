@@ -3,133 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ffd93a9d-9ee6-41de-9cb6-091749bd8226" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/components/Carousel.jsx" afterPath="$PROJECT_DIR$/src/components/Carousel.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/HomeParallax.jsx" afterPath="$PROJECT_DIR$/src/components/HomeParallax.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/components/Suits.jsx" afterPath="$PROJECT_DIR$/src/components/Suits.jsx" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/blouse/pic (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (11).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (12).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (13).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (8).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/hoodi/pic (9).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (11).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (12).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (13).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (14).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (15).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (16).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (8).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/pants/pic (9).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/formalShoes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/hoodi1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/pants.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/pants2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/pants3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/pants4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/pic (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/shirt.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/shoes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/suit.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/suit2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/parallax/suitP.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (1).jpg" afterPath="$PROJECT_DIR$/src/images/products/pic (1).jpg" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (2).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (2).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (3).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (3).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (4).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (4).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (5).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (5).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (6).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (6).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/products/pic (7).JPG" afterPath="$PROJECT_DIR$/src/images/products/pic (7).JPG" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (11).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (12).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (13).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (14).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (15).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (16).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (8).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/set/pic (9).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (1).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (10).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (11).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (12).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (13).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (14).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (15).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (16).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (17).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (18).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (19).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (2).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (20).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (21).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (22).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (23).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (24).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (25).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (26).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (27).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (28).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (29).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (3).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (30).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (31).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (4).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (5).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (6).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (7).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (8).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/shoes/pic (9).jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/10-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/10-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/11-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/11-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/3-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/3-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/6-left.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/6-right.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/7.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/8.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/9.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/desktop-imgmondaytofridayd.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p6.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/images/zara/p7.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -192,8 +65,8 @@
       <file leaf-file-name="suitParallax.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/suitParallax.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+            <state relative-caret-position="63">
+              <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -201,17 +74,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Carousel.jsx" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Carousel.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-              <folding />
+            <state relative-caret-position="210">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Suits.jsx" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Suits.jsx" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Suits.jsx">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -311,7 +186,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -400,18 +275,18 @@
       <workItem from="1519997785186" duration="23510000" />
       <workItem from="1520342485004" duration="8708000" />
       <workItem from="1520424349964" duration="32000" />
-      <workItem from="1520424720820" duration="4649000" />
+      <workItem from="1520424720820" duration="5568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42083000" />
+    <option name="totallyTimeSpent" value="43002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1501851" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30570507" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -419,7 +294,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11305361" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35849056" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -798,24 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/suitParallax.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/HomeParallax.jsx">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
@@ -842,6 +699,26 @@
           <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding>
             <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/suitParallax.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
